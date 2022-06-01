@@ -1,0 +1,8 @@
+C:\Users\lucie\source\repos\FizzBuzz_Solution\FizzBuzz_Solution\bin\Debug\FizzBuzz_Solution.exe.config
+C:\Users\lucie\source\repos\FizzBuzz_Solution\FizzBuzz_Solution\bin\Debug\FizzBuzz_Solution.exe
+C:\Users\lucie\source\repos\FizzBuzz_Solution\FizzBuzz_Solution\bin\Debug\FizzBuzz_Solution.pdb
+C:\Users\lucie\source\repos\FizzBuzz_Solution\FizzBuzz_Solution\obj\Debug\FizzBuzz_Solution.csproj.AssemblyReference.cache
+C:\Users\lucie\source\repos\FizzBuzz_Solution\FizzBuzz_Solution\obj\Debug\FizzBuzz_Solution.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucie\source\repos\FizzBuzz_Solution\FizzBuzz_Solution\obj\Debug\FizzBuzz_Solution.csproj.CoreCompileInputs.cache
+C:\Users\lucie\source\repos\FizzBuzz_Solution\FizzBuzz_Solution\obj\Debug\FizzBuzz_Solution.exe
+C:\Users\lucie\source\repos\FizzBuzz_Solution\FizzBuzz_Solution\obj\Debug\FizzBuzz_Solution.pdb
